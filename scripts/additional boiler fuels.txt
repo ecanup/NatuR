@@ -1,0 +1,16 @@
+<liquid:diesel>
+<liquid:gasoline>
+<liquid:seed.oil>
+<liquid:creosote>
+<liquid:ethanol>
+<liquid:bio.ethanol>
+<liquid:binnie.spirit.neutral>
+<liquid:refinedcanolaoil>
+<liquid:canolaoil>
+<liquid:empoweredoil>
+<liquid:crystaloil>
+<liquid:binnie.spirit.neutral>
+<liquid:creosote> 4800
+
+
+<liquid:biodiesel>

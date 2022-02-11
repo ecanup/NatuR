@@ -1,0 +1,181 @@
+# forestry
+# 5.8.2.387
+Beekeeping statistics for TextComponent{text='', siblings=[TextComponent{text='Den56123', siblings=[], style=Style{hasParent=true, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg Den56123 '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"Den56123",id:"0e48e91f-b2fb-4b90-a7f7-9c5d2ecdc0c0"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=Den56123}}], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg Den56123 '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"Den56123",id:"0e48e91f-b2fb-4b90-a7f7-9c5d2ecdc0c0"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=Den56123}} on 1/16/22 12:57 PM:
+
+Mode: NORMAL
+
+Discovered:
+-----------
+Queen:		2
+Princess:	1
+Drone:		2
+
+Species (160):
+--------------
+X: Discovered
+BL: Blacklisted
+NC: Not counted for the species total
+
+[ X  ] [ BL ] [ NC ]	UID                                      Species              Authority           
+-------------------------------------------------------------------------------------------------------
+
+[    ] [    ] [    ]	forestry.speciesForest                   Forest               Sengir              
+[    ] [    ] [    ]	forestry.speciesMeadows                  Meadows              Sengir              
+[    ] [    ] [    ]	forestry.speciesCommon                   Common               Sengir              
+[    ] [    ] [    ]	forestry.speciesCultivated               Cultivated           Sengir              
+[    ] [    ] [    ]	forestry.speciesNoble                    Noble                Sengir              
+[    ] [    ] [    ]	forestry.speciesMajestic                 Majestic             Sengir              
+[    ] [    ] [    ]	forestry.speciesImperial                 Imperial             Sengir              
+[    ] [    ] [    ]	forestry.speciesDiligent                 Diligent             Sengir              
+[    ] [    ] [    ]	forestry.speciesUnweary                  Unweary              Sengir              
+[    ] [    ] [    ]	forestry.speciesIndustrious              Industrious          Sengir              
+[    ] [    ] [    ]	forestry.speciesSteadfast                Steadfast            Sengir              
+[ X  ] [    ] [    ]	forestry.speciesValiant                  Valiant              Sengir              
+[    ] [    ] [    ]	forestry.speciesHeroic                   Heroic               Sengir              
+[    ] [    ] [    ]	forestry.speciesSinister                 Sinister             Sengir              
+[    ] [    ] [    ]	forestry.speciesFiendish                 Fiendish             Sengir              
+[    ] [    ] [    ]	forestry.speciesDemonic                  Demonic              Sengir              
+[    ] [    ] [    ]	forestry.speciesModest                   Modest               Sengir              
+[    ] [    ] [    ]	forestry.speciesFrugal                   Frugal               Sengir              
+[    ] [    ] [    ]	forestry.speciesAustere                  Austere              Sengir              
+[    ] [    ] [    ]	forestry.speciesTropical                 Tropical             Sengir              
+[    ] [    ] [    ]	forestry.speciesExotic                   Exotic               Sengir              
+[    ] [    ] [    ]	forestry.speciesEdenic                   Edenic               Sengir              
+[    ] [    ] [    ]	forestry.speciesEnded                    Ender                Sengir              
+[    ] [    ] [    ]	forestry.speciesSpectral                 Spectral             Sengir              
+[    ] [    ] [    ]	forestry.speciesPhantasmal               Phantasmal           Sengir              
+[    ] [    ] [    ]	forestry.speciesWintry                   Wintry               Sengir              
+[    ] [    ] [    ]	forestry.speciesIcy                      Icy                  Sengir              
+[    ] [    ] [    ]	forestry.speciesGlacial                  Glacial              Sengir              
+[    ] [    ] [ NC ]	forestry.speciesVindictive               Vindictive           Sengir              
+[    ] [    ] [ NC ]	forestry.speciesVengeful                 Vengeful             Sengir              
+[    ] [    ] [ NC ]	forestry.speciesAvenging                 Avenging             Sengir              
+[    ] [    ] [ NC ]	forestry.speciesLeporine                 Leporine             Sengir              
+[    ] [    ] [ NC ]	forestry.speciesMerry                    Merry                Sengir              
+[    ] [    ] [ NC ]	forestry.speciesTipsy                    Tipsy                Sengir              
+[    ] [    ] [ NC ]	forestry.speciesTricky                   Tricky               Sengir              
+[    ] [    ] [    ]	forestry.speciesRural                    Rural                Sengir              
+[    ] [    ] [    ]	forestry.speciesFarmerly                 Farmerly             Sengir              
+[    ] [    ] [    ]	forestry.speciesAgrarian                 Agrarian             Sengir              
+[    ] [    ] [    ]	forestry.speciesMarshy                   Marshy               Sengir              
+[    ] [    ] [    ]	forestry.speciesMiry                     Miry                 Sengir              
+[    ] [    ] [    ]	forestry.speciesBoggy                    Boggy                Sengir              
+[    ] [    ] [    ]	forestry.speciesMonastic                 Monastic             Sengir              
+[    ] [    ] [    ]	forestry.speciesSecluded                 Secluded             Sengir              
+[    ] [    ] [    ]	forestry.speciesHermitic                 Hermitic             Sengir              
+[    ] [    ] [    ]	extrabees.species.arid                   Arid                 Binnie              
+[    ] [    ] [    ]	extrabees.species.barren                 Barren               Binnie              
+[    ] [    ] [    ]	extrabees.species.desolate               Desolate             Binnie              
+[    ] [    ] [    ]	extrabees.species.decomposing            Decomposing          Binnie              
+[    ] [ BL ] [    ]	extrabees.species.gnawing                Gnawing              Binnie              
+[    ] [    ] [    ]	extrabees.species.rotten                 Decaying             Binnie              
+[    ] [    ] [    ]	extrabees.species.bone                   Skeletal             Binnie              
+[    ] [    ] [    ]	extrabees.species.creeper                Creepy               Binnie              
+[    ] [    ] [    ]	extrabees.species.rock                   Rocky                Binnie              
+[    ] [    ] [    ]	extrabees.species.stone                  Tolerant             Binnie              
+[    ] [    ] [    ]	extrabees.species.granite                Robust               Binnie              
+[    ] [    ] [    ]	extrabees.species.mineral                Resilient            Binnie              
+[    ] [    ] [    ]	extrabees.species.copper                 Corroded             Binnie              
+[    ] [    ] [    ]	extrabees.species.tin                    Tarnished            Binnie              
+[    ] [    ] [    ]	extrabees.species.iron                   Rusty                Binnie              
+[    ] [    ] [    ]	extrabees.species.lead                   Leaden               Binnie              
+[    ] [    ] [    ]	extrabees.species.zinc                   Galvanized           Binnie              
+[    ] [ BL ] [    ]	extrabees.species.titanium               Impregnable          Binnie              
+[    ] [ BL ] [    ]	extrabees.species.tungstate              Invincible           Binnie              
+[    ] [    ] [    ]	extrabees.species.nickel                 Lustered             Binnie              
+[    ] [    ] [    ]	extrabees.species.gold                   Glittering           Binnie              
+[    ] [    ] [    ]	extrabees.species.silver                 Shining              Binnie              
+[    ] [    ] [    ]	extrabees.species.platinum               Valuable             Binnie              
+[    ] [    ] [    ]	extrabees.species.lapis                  Lapis                Binnie              
+[    ] [ BL ] [    ]	extrabees.species.sodalite               Sodalite             Binnie              
+[    ] [ BL ] [    ]	extrabees.species.pyrite                 Pyrite               Binnie              
+[    ] [ BL ] [    ]	extrabees.species.bauxite                Bauxite              Binnie              
+[    ] [ BL ] [    ]	extrabees.species.cinnabar               Cinnabar             Binnie              
+[    ] [ BL ] [    ]	extrabees.species.sphalerite             Sphalerite           Binnie              
+[    ] [    ] [    ]	extrabees.species.emerald                Emerald              Binnie              
+[    ] [    ] [    ]	extrabees.species.ruby                   Ruby                 Binnie              
+[    ] [    ] [    ]	extrabees.species.sapphire               Sapphire             Binnie              
+[    ] [    ] [    ]	extrabees.species.diamond                Diamond              Binnie              
+[    ] [    ] [    ]	extrabees.species.unstable               Unstable             Binnie              
+[    ] [    ] [    ]	extrabees.species.nuclear                Nuclear              Binnie              
+[    ] [ BL ] [    ]	extrabees.species.radioactive            Radioactive          Binnie              
+[    ] [ BL ] [    ]	extrabees.species.yellorium              Yellorium            Binnie              
+[    ] [ BL ] [    ]	extrabees.species.cyanite                Cyanite              Binnie              
+[    ] [ BL ] [    ]	extrabees.species.blutonium              Blutonium            Binnie              
+[    ] [    ] [    ]	extrabees.species.ancient                Ancient              Binnie              
+[    ] [    ] [    ]	extrabees.species.primeval               Primeval             Binnie              
+[    ] [    ] [    ]	extrabees.species.prehistoric            Prehistoric          Binnie              
+[    ] [    ] [    ]	extrabees.species.relic                  Relic                Binnie              
+[    ] [    ] [    ]	extrabees.species.coal                   Fossilised           Binnie              
+[    ] [ BL ] [    ]	extrabees.species.resin                  Resinous             Binnie              
+[    ] [    ] [    ]	extrabees.species.oil                    Oily                 Binnie              
+[    ] [    ] [    ]	extrabees.species.distilled              Distilled            Binnie              
+[    ] [ BL ] [    ]	extrabees.species.fuel                   Refined              Binnie              
+[    ] [    ] [    ]	extrabees.species.creosote               Tarry                Binnie              
+[    ] [ BL ] [    ]	extrabees.species.latex                  Elastic              Binnie              
+[    ] [    ] [    ]	extrabees.species.water                  Water                Binnie              
+[    ] [    ] [    ]	extrabees.species.river                  River                Binnie              
+[    ] [    ] [    ]	extrabees.species.ocean                  Ocean                Binnie              
+[    ] [    ] [    ]	extrabees.species.ink                    Stained              Binnie              
+[    ] [    ] [    ]	extrabees.species.growing                Growing              Binnie              
+[    ] [    ] [    ]	extrabees.species.farm                   Farmed               Binnie              
+[    ] [    ] [    ]	extrabees.species.thriving               Thriving             Binnie              
+[    ] [    ] [    ]	extrabees.species.blooming               Blooming             Binnie              
+[    ] [    ] [    ]	extrabees.species.sweet                  Sweetened            Binnie              
+[    ] [    ] [    ]	extrabees.species.sugar                  Sugary               Binnie              
+[    ] [    ] [    ]	extrabees.species.ripening               Ripening             Binnie              
+[    ] [    ] [    ]	extrabees.species.fruit                  Fruity               Binnie              
+[    ] [    ] [    ]	extrabees.species.alcohol                Fermented            Binnie              
+[    ] [    ] [    ]	extrabees.species.milk                   Bovine               Binnie              
+[    ] [ BL ] [    ]	extrabees.species.coffee                 Caffeinated          Binnie              
+[    ] [    ] [    ]	extrabees.species.swamp                  Damp                 Binnie              
+[    ] [    ] [    ]	extrabees.species.boggy                  Sodden               Binnie              
+[    ] [    ] [    ]	extrabees.species.fungal                 Fungal               Binnie              
+[    ] [    ] [    ]	extrabees.species.marble                 Marble               Binnie              
+[    ] [    ] [    ]	extrabees.species.roman                  Roman                Binnie              
+[    ] [    ] [    ]	extrabees.species.greek                  Greek                Binnie              
+[    ] [    ] [    ]	extrabees.species.classical              Classical            Binnie              
+[    ] [    ] [    ]	extrabees.species.basalt                 Embittered           Binnie              
+[    ] [    ] [    ]	extrabees.species.tempered               Furious              Binnie              
+[    ] [    ] [    ]	extrabees.species.volcanic               Volcanic             Binnie              
+[    ] [    ] [    ]	extrabees.species.glowstone              Glowering            Binnie              
+[    ] [    ] [    ]	extrabees.species.malicious              Malicious            Binnie              
+[    ] [    ] [    ]	extrabees.species.infectious             Infectious           Binnie              
+[    ] [    ] [    ]	extrabees.species.virulent               Virulent             Binnie              
+[    ] [    ] [    ]	extrabees.species.viscous                Viscous              Binnie              
+[    ] [    ] [    ]	extrabees.species.glutinous              Glutinous            Binnie              
+[    ] [    ] [    ]	extrabees.species.sticky                 Sticky               Binnie              
+[    ] [    ] [    ]	extrabees.species.corrosive              Corrosive            Binnie              
+[    ] [    ] [    ]	extrabees.species.caustic                Caustic              Binnie              
+[    ] [    ] [    ]	extrabees.species.acidic                 Acidic               Binnie              
+[    ] [    ] [    ]	extrabees.species.excited                Excited              Binnie              
+[    ] [    ] [    ]	extrabees.species.energetic              Energetic            Binnie              
+[    ] [    ] [    ]	extrabees.species.ecstatic               Ecstatic             Binnie              
+[    ] [    ] [    ]	extrabees.species.artic                  Frigid               Binnie              
+[    ] [    ] [    ]	extrabees.species.freezing               Absolute             Binnie              
+[    ] [    ] [    ]	extrabees.species.shadow                 Shadowed             Binnie              
+[    ] [    ] [    ]	extrabees.species.darkened               Darkened             Binnie              
+[    ] [    ] [    ]	extrabees.species.abyss                  Abyssal              Binnie              
+[    ] [    ] [    ]	extrabees.species.red                    Maroon               Binnie              
+[    ] [    ] [    ]	extrabees.species.yellow                 Saffron              Binnie              
+[    ] [    ] [    ]	extrabees.species.blue                   Prussian             Binnie              
+[    ] [    ] [    ]	extrabees.species.green                  Natural              Binnie              
+[    ] [    ] [    ]	extrabees.species.black                  Ebony                Binnie              
+[    ] [    ] [    ]	extrabees.species.white                  Bleached             Binnie              
+[    ] [    ] [    ]	extrabees.species.brown                  Sepia                Binnie              
+[    ] [    ] [    ]	extrabees.species.orange                 Amber                Binnie              
+[    ] [    ] [    ]	extrabees.species.cyan                   Turquoise            Binnie              
+[    ] [    ] [    ]	extrabees.species.purple                 Indigo               Binnie              
+[    ] [    ] [    ]	extrabees.species.gray                   Slate                Binnie              
+[    ] [    ] [    ]	extrabees.species.lightblue              Azure                Binnie              
+[    ] [    ] [    ]	extrabees.species.pink                   Lavender             Binnie              
+[    ] [    ] [    ]	extrabees.species.limegreen              Lime                 Binnie              
+[    ] [    ] [    ]	extrabees.species.magenta                Fuchsia              Binnie              
+[    ] [    ] [    ]	extrabees.species.lightgray              Ashen                Binnie              
+[    ] [    ] [    ]	extrabees.species.celebratory            Celebratory          Binnie              
+[    ] [    ] [ NC ]	extrabees.species.jaded                  Jaded                Binnie              
+[    ] [    ] [    ]	extrabees.species.hazardous              Hazardous            Binnie              
+[    ] [ BL ] [    ]	extrabees.species.quantum                Quantum              Binnie              
+[    ] [    ] [    ]	extrabees.species.unusual                Abnormal             Binnie              
+[    ] [ BL ] [    ]	extrabees.species.spatial                Spatial              Binnie              
+[    ] [    ] [    ]	extrabees.species.mystical               Mystical             Binnie              

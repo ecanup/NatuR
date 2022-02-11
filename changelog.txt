@@ -1,0 +1,17 @@
+0.0.3:
+fixed tomato and chili pepper seasons
+removed bronze ingot crafting table recipe
+added ore dict support to pam's presser juice recipes
+nerfed ground trap.  bait can now only be made as a byproduct from other things
+removed pam's beet crop
+added new fuels to oil generator and portable generator
+
+0.0.2:
+removed pointless woven cloth recipe
+removed original cargo cart and crop stake recipe that interfered with other recipes
+fixed wooden hopper requiring oak wood
+add twilight forest venison as valid pam's venison
+made all modded egg types compatible with all egg recipes
+added crops to seasons and removed some redundant crops
+added recipe for torches from biocoal
+seasons no longer progress when offline

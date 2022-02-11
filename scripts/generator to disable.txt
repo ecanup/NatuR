@@ -1,0 +1,6 @@
+combustion generator
+culinary generator
+ender generator
+nether generator
+soul generator
+geothermal

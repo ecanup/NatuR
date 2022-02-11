@@ -1,0 +1,4 @@
+<liquid:canolaoil> 80
+<liquid:oliveoil> no burn
+<liquid:plantoil> no burn
+<liquid:seed.oil> 80
