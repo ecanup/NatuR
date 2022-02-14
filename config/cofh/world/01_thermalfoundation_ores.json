@@ -53,8 +53,24 @@
 							"minecraft:ocean",
 							"minecraft:frozen_ocean",
 							"minecraft:deep_ocean",
-							"minecraft:river"
+							"minecraft:river",
+							"minecraft:swampland",
+							"twilightforest:twilight_swamp",
+							"twilightforest:fire_swamp",
+							"traverse:green_swamp"
 						]
+					},
+					{
+						"type": "dictionary",
+						"entry": "RIVER"
+					},
+					{
+						"type": "dictionary",
+						"entry": "OCEAN"
+					},
+					{
+						"type": "dictionary",
+						"entry": "SWAMP"
 					}
 				]
 			},

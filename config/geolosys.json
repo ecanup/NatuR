@@ -242,7 +242,11 @@
 			"biomes": [
 				"minecraft:ocean",
 				"minecraft:frozen_ocean",
-				"minecraft:deep_ocean"
+				"minecraft:deep_ocean",
+				"minecraft:swampland",
+				"twilightforest:twilight_swamp",
+				"twilightforest:fire_swamp",
+				"traverse:green_swamp"
 			],
 			"isWhitelist": true
 		},

@@ -20,3 +20,4 @@ config/splash.properties
 config.bak.json
 config_new_temp.json
 config/jei/worldSettings.cfg
+mineraltracker/*
