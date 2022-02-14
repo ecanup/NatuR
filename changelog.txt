@@ -5,6 +5,7 @@ added ore dict support to pam's presser juice recipes
 nerfed ground trap.  bait can now only be made as a byproduct from other things
 removed pam's beet crop
 added new fuels to oil generator and portable generator
+hid all forestry cans and capsules except for water
 
 0.0.2:
 removed pointless woven cloth recipe
