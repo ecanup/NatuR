@@ -8,8 +8,9 @@ recipes.remove(<actuallyadditions:item_misc:4>);
 recipes.remove(<minecraft:bread>);
 recipes.remove(<harvestcraft:doughitem>);
 furnace.remove(<minecraft:bread>);
+
 recipes.addShaped(<extratrees:misc:4>, [[null,null,null],[null, <ore:listAllmushroom>, null],[<ore:listAllmushroom>,<ore:listAllgrain>,<ore:listAllmushroom>]]);
-recipes.addShapeless(<extratrees:misc:4>*8, [<ore:listAllwater>, <ore:listAllmushroom>, <ore:foodFlour>]);
+recipes.addShapeless(<extratrees:misc:4>*8, [<ore:listAllwater>, <extratrees:misc:4>, <ore:foodFlour>]);
 
 mods.foodtweaker.Tweaker.changeFoodStats(<actuallyadditions:item_food:17>, FoodInfo(<minecraft:bread>));
 
