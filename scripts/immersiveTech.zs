@@ -67,4 +67,6 @@ mods.immersivetechnology.MeltingCrucible.addRecipe(<liquid:coal>*1000, <immersiv
 
 mods.immersivetechnology.SolarTower.addRecipe(<liquid:highpressuresteam> *500, <liquid:steam> * 1000, 10);
 mods.immersivetechnology.Boiler.addRecipe(<liquid:highpressuresteam> *500, <liquid:steam> * 1000, 10);
-mods.immersivetechnology.HighPressureSteamTurbine.addFuel(<liquid:steam> * 200, <liquid:highpressuresteam> * 100, 1);
+mods.immersivetechnology.HighPressureSteamTurbine.addFuel(<liquid:highpressureexhauststeam> * 200, <liquid:highpressuresteam> * 100, 1);
+
+mods.immersivetechnology.SteamTurbine.addFuel(<liquid:exhauststeam> * 100, <liquid:highpressureexhauststeam> * 100, 1);
