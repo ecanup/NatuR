@@ -23,6 +23,7 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:material:514>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:640>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:656>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:657>);
+mods.jei.JEI.removeAndHide(<thermalfoundation:material:800>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:817>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:818>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:819>);
@@ -34,5 +35,6 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:material:1026>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:1028>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:802>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:512>);
+
 
 mods.jei.JEI.removeAndHide(<thermalfoundation:geode>);

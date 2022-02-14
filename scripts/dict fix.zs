@@ -26,6 +26,13 @@
 <ore:listAllegg>.add(<chickens:colored_egg:*>);
 <ore:egg>.addAll(<ore:listAllegg>);
 
+//unify sawdust
+<ore:itemSawdust>.add(<extratrees:misc:0>);
+<ore:dustWood>.add(<extratrees:misc:0>);
+<ore:itemSawdust>.add(<forestry:wood_pulp>);
+<ore:dustWood>.add(<forestry:wood_pulp>);
+
+
 
 //this lines aren't working
 //for item in <bibliocraft:framedchest:*>.items {

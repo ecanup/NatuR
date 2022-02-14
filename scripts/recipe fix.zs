@@ -67,3 +67,6 @@ mods.jei.JEI.removeAndHide(<extratrees:misc:9>);
 //mossy stone brick fix
 recipes.remove(<minecraft:stone_slab:5>);
 recipes.addShaped(<minecraft:stone_slab:5>*6,[[<minecraft:stonebrick:0>,<minecraft:stonebrick:0>,<minecraft:stonebrick:0>]]);
+
+//unify sawdust
+recipes.replaceAllOccurences(<thermalfoundation:material:800>, <ore:itemSawdust>);

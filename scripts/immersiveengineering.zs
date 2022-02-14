@@ -101,3 +101,5 @@ mods.immersiveengineering.Refinery.addRecipe(<liquid:biodiesel>* 16, <liquid:bio
 mods.immersiveengineering.Refinery.addRecipe(<liquid:biodiesel>* 16, <liquid:bio.ethanol>* 8, <liquid:oliveoil>* 8, 80);
 
 mods.jei.JEI.removeAndHide(<immersiveengineering:metal_device1:13>);
+
+mods.immersiveengineering.CokeOven.addRecipe(<minecraft:coal:1>, 250, <thermalfoundation:material:801>, 900);

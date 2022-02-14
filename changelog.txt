@@ -8,6 +8,7 @@ added new fuels to oil generator and portable generator
 hid all forestry cans and capsules except for water
 tin deposits can now spawn in swamps
 added high pressure exhaust steam
+unified sawdust
 
 0.0.2:
 removed pointless woven cloth recipe
