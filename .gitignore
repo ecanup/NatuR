@@ -16,3 +16,5 @@ patchouli_data.json
 hotbar.nbt
 crafttweaker.log
 manifest.json
+config/splash.properties
+config.bak.json
