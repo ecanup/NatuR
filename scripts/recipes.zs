@@ -28,7 +28,6 @@ recipes.addShaped(<forestry:fertilizer_bio> * 4, [[null, <ore:cropBarley>, null]
 recipes.addShaped(<forestry:fertilizer_bio> * 4, [[null, <ore:cropBarley>, null],[<ore:cropBarley>, <minecraft:dirt:1>, <ore:cropBarley>], [null, <ore:cropBarley>, null]]);
 recipes.addShaped(<wopper:wopper>, [[<ore:plankWood>, null, <ore:plankWood>],[<ore:plankWood>, null, <ore:plankWood>], [null, <ore:plankWood>, null]]);
 recipes.addShaped(<rustic:crop_stake>, [[<ore:stickWood>],[<ore:stickWood>], [<ore:stickWood>]]);
-recipes.addShaped(<quark:stonebrick_mossy_slab> * 6, [[null, null, null],[null, null, null], [<minecraft:stonebrick:1>, <minecraft:stonebrick:1>, <minecraft:stonebrick:1>]]);
 recipes.addShaped(<railcraft:cart_cargo>, [[<minecraft:minecart>], [<ore:chestWood>]]);
 recipes.addShaped(<forestry:fertilizer_compound> * 4, [[null, <ore:cropBarley>, null],[<ore:cropBarley>, <ore:dirt:2>, <ore:cropBarley>], [null, <ore:cropBarley>, null]]);
 recipes.addShapeless(<rustic:painted_wood_white>,[<ore:plankWood>,<ore:dyeWhite>]);
