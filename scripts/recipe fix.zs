@@ -57,3 +57,8 @@ mods.jei.JEI.removeAndHide(<railcraft:generic:6>);
 
 recipes.replaceAllOccurences(<minecraft:egg>, <ore:listAllegg>);
 recipes.replaceAllOccurences(<ore:egg>, <ore:listAllegg>);
+
+mods.jei.JEI.removeAndHide(<extratrees:misc:6>);
+mods.jei.JEI.removeAndHide(<extratrees:misc:7>);
+mods.jei.JEI.removeAndHide(<extratrees:misc:8>);
+mods.jei.JEI.removeAndHide(<extratrees:misc:9>);
