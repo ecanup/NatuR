@@ -9,6 +9,7 @@ hid all forestry cans and capsules except for water
 tin deposits can now spawn in swamps
 added high pressure exhaust steam
 unified sawdust
+enabled sort and stack button support to IE crates (note: merge/stack to nearby chests still doesn't work)
 
 0.0.2:
 removed pointless woven cloth recipe
